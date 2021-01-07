@@ -1,0 +1,4 @@
+*.swp
+/target
+Cargo.lock
+./src/main.rs
